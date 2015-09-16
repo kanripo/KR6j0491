@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 訶利帝母真言經
+#+DATE: 2015-08-30 20:33:35.760076
+#+PROPERTY: JUAN 0
